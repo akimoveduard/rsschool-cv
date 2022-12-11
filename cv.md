@@ -1,22 +1,23 @@
-# __Эдуард__ АКИМОВ
+# Edward AKIMOV
 
-## Контакты
+## Contacts
 
+* Email: mailto:akimov-eduard@yandex.ru
 * [Telegram](https://t.me/akimoved)
-* Электронная почта: mailto:akimov-eduard@yandex.ru
-* [Дискорд](https://discordapp.com/users/1043458110750195753/)
+* [Discord](https://discordapp.com/users/1043458110750195753/)
+* [Github](https://github.com/akimoveduard)
 
 ---
 
-## Обо мне
+## About Me
 
-Мне 45 лет. Живу в Краснодаре. Моя цель — стать отличным фронтенд-разработчиком, который не боится самых сложных проектов и погружаться в чужой код. Через 3 года я хочу быть ментором и наставником в крупной или средней продуктовой компании. Сейчас я стажируюсь в международном стартапе.
+I'm 45 years old. I live in Krasnodar, Russia. My goal is to become an excellent frontend developer who's not afraid of the most complex projects and dive into someone else's code.  In 3 years I want to be a mentor in a large or medium-sized IT company. I am currently interning at an international startup.
 
-## Навыки
+## Skills
 
 * HTML
 * CSS
-* Препроцессоры:
+* Preprocessors:
 	* Pug
 	* SCSS
 * JavaScript
@@ -25,13 +26,9 @@
 * Git
 * Figma
 * Webpack
-* БЭМ
-* Обучаемость
-* Ответственность
-* Инициативность
-* Клиентоориентированность
+* BEM
 
-## Пример кода
+## Code Examaples
 
 ```js
 function multiply(a, b) {
@@ -39,7 +36,7 @@ function multiply(a, b) {
 }
 ```
 
-## Опыт работы
+## Experience
 
 * [Учебный проект «Как учиться»](https://akimoveduard.github.io/how-to-learn/)
 * [Учебный проект «Сайт-портфолио на JavaScript»](https://akimoveduard.github.io/glo-academy-intensive/)
@@ -49,11 +46,11 @@ function multiply(a, b) {
 * [Учебный проект «Mesto Russia» на React](https://akimoveduard.github.io/mesto-react/)
 * [Участие в групповом проекте лендинга для фестиваля «Любимовка»](https://novvember.tk/lubimovka-landing/)
 
-## Образование
+## Education
 
-* 2001 — Ульяновский государственный технический университет, финансовый менеджмент
-* Октябрь, 2021 — Ноябрь, 2022: [Курс «Веб-разработчик» в Яндекс.Практикуме](https://practicum.yandex.ru/web/)
+* 2001 — Ulyanovsk State Technical University, Financial management
+* October, 2021 — November, 2022: [Web Developer course in Yandex.Praktikum](https://practicum.yandex.ru/web/)
 
-## Английский язык
+## English
 
 * A1 — Elementary
