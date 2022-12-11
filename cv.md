@@ -3,7 +3,7 @@
 ## Контакты
 
 * [Telegram](https://t.me/akimoved)
-* [Электронная почта](mailto:akimov-eduard@yandex.ru)
+* Электронная почта: mailto:akimov-eduard@yandex.ru
 * [Дискорд](https://discordapp.com/users/1043458110750195753/)
 
 ---
