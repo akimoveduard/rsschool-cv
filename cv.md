@@ -38,13 +38,13 @@ function multiply(a, b) {
 
 ## Experience
 
-* [Учебный проект «Как учиться»](https://akimoveduard.github.io/how-to-learn/)
-* [Учебный проект «Сайт-портфолио на JavaScript»](https://akimoveduard.github.io/glo-academy-intensive/)
-* [Учебный проект «Путешествия по России»](https://akimoveduard.github.io/russian-travel/)
-* [Учебный проект «Mesto Russia»](https://akimoveduard.github.io/mesto/)
-* [Учебный проект «Cайт сборки своего ПК»](https://akimoveduard.github.io/glo-academy-intensive-2/)
-* [Учебный проект «Mesto Russia» на React](https://akimoveduard.github.io/mesto-react/)
-* [Участие в групповом проекте лендинга для фестиваля «Любимовка»](https://novvember.tk/lubimovka-landing/)
+* [Educational project «How to Learn»](https://akimoveduard.github.io/how-to-learn/) (RU)
+* [Educational project «Portfolio Site»](https://akimoveduard.github.io/glo-academy-intensive/) (RU)
+* [Educational project «Travellings in Russia»](https://akimoveduard.github.io/russian-travel/) (RU)
+* [Educational project «Mesto Russia»](https://akimoveduard.github.io/mesto/) (RU)
+* [Educational project «Building of a PC Site»](https://akimoveduard.github.io/glo-academy-intensive-2/) (RU)
+* [Educational project «Mesto Russia» in React](https://akimoveduard.github.io/mesto-react/) (RU)
+* [Group educational landing project for the Lyubimovka Festival](https://novvember.tk/lubimovka-landing/) (RU)
 
 ## Education
 
