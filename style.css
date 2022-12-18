@@ -170,6 +170,31 @@ body {
   font-weight: 800;
 }
 
+.main__section-columns {
+  display: flex;
+  flex-direction: row;
+}
+
+.main__column-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  border-right: 1px solid #62464D;
+}
+
+.main__horiz-title {
+  height: 40px;
+  margin: 0;
+  padding: 0;
+  transform: rotate(-90deg);
+}
+
+.main__column-content {
+  width: 100%;
+  padding-left: 20px;
+}
+
 /* FOOTER */
 
 .footer {
