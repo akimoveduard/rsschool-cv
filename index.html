@@ -12,7 +12,16 @@
   <title>Edward Akimov</title>
 </head>
 <body>
-  <header class="header" role="header">
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-list__item"><a class="nav-list__link" href="#experience">Experience</a></li>
+      <li class="nav-list__item"><a class="nav-list__link" href="#skills">Skills</a></li>
+      <li class="nav-list__item"><a class="nav-list__link" href="#code">Code Example</a></li>
+      <li class="nav-list__item"><a class="nav-list__link" href="#about">About Me</a></li>
+      <li class="nav-list__item"><a class="nav-list__link" href="#education">Education</a></li>
+    </ul>
+  </nav>
+  <header class="header" role="header">    
     <div class="header__bio-info">
       <div class="header__title-wrapper">
         <h1 class="header__title">Edward Akimov</h1>
@@ -46,7 +55,7 @@
         <div class="main__column-header">
           <h2 class="main__horiz-title">Experience</h2>
         </div>
-        <div class="main__column-content">
+        <div class="main__column-content" id="experience">
           <ul class="main__section-list">
             <li class="main__section-list-item">
               Educational project <a class="main__section-link" href="https://akimoveduard.github.io/how-to-learn/" target="_blank"><b>«How to Learn»</b></a>:
@@ -80,7 +89,7 @@
         </div>
       </section>
       <section class="main__section">
-        <h2 class="main__section-title">Technical Skills</h2>
+        <h2 class="main__section-title" id="skills">Technical Skills</h2>
         <ul class="skills-list">
           <li class="skills-list__item skills-list__item_html"><span class="skills-list__label">HTML</span></li>
           <li class="skills-list__item skills-list__item_css"><span class="skills-list__label">CSS</span></li>
@@ -93,7 +102,7 @@
         </ul>
       </section>
       <section class="main__section">
-        <h2 class="main__section-title">Code Example</h2>
+        <h2 class="main__section-title" id="code">Code Example</h2>
         <code class="main__code-example-wrapper">
           <pre class="main__code-example">
 function multiply(a, b) {
@@ -104,11 +113,11 @@ function multiply(a, b) {
     </div>
     <div class="main__column_right">
       <section class="main__section">
-        <h2 class="main__section-title">About Me</h2>
+        <h2 class="main__section-title" id="about">About Me</h2>
         <p class="main__section-text">I'm 45&nbsp;years old. I&nbsp;live in&nbsp;Krasnodar, Russia. My goal&nbsp;is to&nbsp;become an&nbsp;excellent frontend developer who's not afraid of the&nbsp;most complex projects and dive into someone else's code.  In 3&nbsp;next years I&nbsp;want to&nbsp;be a&nbsp;mentor in a&nbsp;large or medium-sized IT company. I&nbsp;am currently interning at an&nbsp;international startup.</p>
       </section>
       <section class="main__section">
-        <h2 class="main__section-title">Education</h2>
+        <h2 class="main__section-title" id="education">Education</h2>
         <ul class="main__section-list">
           <li class="main__section-list-item"><b>2001</b>:<br>
             Ulyanovsk State Technical University, Financial management
