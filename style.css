@@ -3,6 +3,11 @@ body {
   font-family: 'Nunito', sans-serif;
 }
 
+.project-stacks {
+  display: block;
+  font-size: 14px;
+}
+
 /* HEADER */
 
 .header {
@@ -11,6 +16,7 @@ body {
   padding: 0 20px;
   display: flex;
   flex-direction: row;
+  box-sizing: border-box;
 }
 
 .header__bio-info {
@@ -74,6 +80,10 @@ body {
   color: white;
 }
 
+.header__contacts-link:hover {
+  opacity: 0.7;
+}
+
 .header__photo {
   flex: 1;
   max-width: 480px;
@@ -84,4 +94,127 @@ body {
   object-fit: cover;
   width: 100%;
   height: 100%;
+}
+
+/* MAIN */
+
+.main {
+  max-width: 1414px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.main__column_left {
+  flex: 2;
+  padding: 15px 20px;
+  box-sizing: border-box;
+}
+
+.main__column_right {
+  flex: 1;
+  max-width: 480px;
+  min-height: 100%;
+  background-color: #F5F5F5;
+  box-sizing: border-box;
+}
+
+/* MAIN_SECTION */
+
+.main__section {
+  padding: 10px 25px;
+  color: #62464D;
+}
+
+.main__section-title {
+  font-weight: 800;
+  font-size: 34px;
+  margin: 0;
+  padding: 8px 0;
+  border-bottom: 1px solid #62464D;
+}
+
+.main__section-text {
+  font-size: 18px;
+  line-height: 28px;
+  color: #62464D;
+}
+
+.main__section-text:last-of-type {
+  padding-bottom: 0;
+}
+
+.main__section-list {
+  margin: 0 0 0 20px;
+  padding: 0;
+}
+
+.main__section-list-item {
+  margin: 0;
+  padding: 10px;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.main__section-link {
+  color: #BA856D;
+}
+
+.main__section-link:hover {
+  opacity: 0.8;
+}
+
+.main__section-link[href*="github.io"] {
+  font-weight: 800;
+}
+
+/* FOOTER */
+
+.footer {
+  max-width: 1414px;
+  margin: 40px auto;
+  padding: 20px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-top: 2px solid #62464D;
+  box-sizing: border-box;
+}
+
+.footer__created {
+  height: 100%;
+}
+
+.footer__github {
+  height: 100%;
+}
+
+.footer__github-link {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+
+.footer__github-link:hover {
+  opacity: 0.7;
+}
+
+.footer__rss {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.footer__rss-link {
+  display: block;
+  width: 150px;
+}
+
+.footer__rss-link:hover {
+  opacity: 0.7;
+}
+
+.footer__rss-logo {
+  width: 100%;
 }
