@@ -119,9 +119,6 @@ body {
   min-height: 100%;
   background-color: #F5F5F5;
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  justify-content:space-between;
 }
 
 /* MAIN_SECTION */
@@ -252,6 +249,22 @@ body {
   background-color: #BA856D;
   color: white;
   height: max-content;
+}
+
+/* CODE EXAMPLE */
+
+.main__code-example {
+  margin: 0;
+  padding: 25px 25px 15px 0;
+  position: relative;
+}
+
+.main__code-example::after {
+  position: absolute;
+  top: 20px;
+  right: 0;
+  content: 'JavaScript';
+  font-size: 12px;
 }
 
 /* FOOTER */
